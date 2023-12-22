@@ -1,0 +1,1 @@
+The C programming exercises that I am following are from the Ecole 42 Youtube channel in French. I am adding them here to github to practice pushing to git and to familiarise myself with the git universe and also because I cannot believe that I am learning to program in C. 
